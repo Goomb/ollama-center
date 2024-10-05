@@ -1,0 +1,6 @@
+.ollama-active {
+    background-image: url("icons/ollama-active.png");
+    background-size: 15px;
+    height: 15px;
+    width: 15px;
+}

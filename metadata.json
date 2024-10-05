@@ -1,0 +1,8 @@
+{
+  "name": "Ollama Center",
+  "description": "Show Ollama main status and info",
+  "uuid": "ollama-center@goomb",
+  "shell-version": [
+    "47"
+  ]
+}
